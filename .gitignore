@@ -1,0 +1,7 @@
+*.o
+*.os
+
+/.sconsign.dblite
+/libengine.so
+/3d-engine
+/unit_test
